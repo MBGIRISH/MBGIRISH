@@ -1,4 +1,4 @@
-# M B Girish
+                                                   # M B Girish
 
 ### Data Scientist | Machine Learning Engineer
 
@@ -7,43 +7,11 @@ My work goes beyond model training to include **monitoring, causal analysis, and
 
 ---
 
-## 🔍 What I Work On
+## 🔍 Focus Areas
 - End-to-end ML systems: data → modeling → evaluation → deployment → monitoring
 - Post-deployment ML: **data drift, concept drift, performance decay, retraining triggers**
 - **Causal inference & uplift modeling** for decision optimization
 - Time-series forecasting and anomaly detection for business-critical use cases
-
----
-
-## 🚀 Selected Projects
-
-### ML Model Monitoring & Drift Detection
-Production-grade system to detect **data and concept drift**, monitor performance decay, and support retraining decisions in deployed ML models.  
-https://github.com/MBGIRISH/ML-Model-Monitoring-Drift-Detection
-
----
-
-### Causal Impact & Uplift Modeling
-Causal inference framework to estimate **true incremental impact** of interventions and optimize targeting strategies.  
-https://github.com/MBGIRISH/Causal-Impact-Uplift-Modeling
-
----
-
-### Deal Forensics — AI Negotiation Intelligence
-AI-powered decision-support system to analyze deals, detect risks, infer buyer/seller intent, and generate actionable recommendations.  
-https://github.com/MBGIRISH/Deal-Forensics
-
----
-
-### Retail Sales Time-Series Forecasting System
-End-to-end demand forecasting system modeling trend, seasonality, and demand patterns with rigorous validation.  
-https://github.com/MBGIRISH/Retail-Sales-Time-Series-Forecasting-System
-
----
-
-### Real-Time Transaction Anomaly Detection
-Anomaly and fraud detection pipeline for highly imbalanced financial transaction data.  
-https://github.com/MBGIRISH/Real-Time-Transaction-Anomaly-Detection-System
 
 ---
 
@@ -80,4 +48,4 @@ https://github.com/MBGIRISH/Real-Time-Transaction-Anomaly-Detection-System
 
 ---
 
-*Open to Data Scientist and Machine Learning Engineer roles focused on production ML systems and data-driven decision-making.*
+*Pinned repositories below highlight selected production and analytics-focused projects.*
