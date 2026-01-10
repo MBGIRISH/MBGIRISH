@@ -1,4 +1,4 @@
-  # M B Girish
+  # M B GIRISH
 
 ### Data Scientist | Machine Learning Engineer
 
