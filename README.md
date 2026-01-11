@@ -1,51 +1,60 @@
-  # M B GIRISH
-
-### Data Scientist | Machine Learning Engineer
-
-I build **production-ready machine learning systems** with a focus on **reliability, decision intelligence, and real-world impact**.  
-My work goes beyond model training to include **monitoring, causal analysis, and system-level thinking**.
-
----
-
-## 🔍 Focus Areas
-- End-to-end ML systems: data → modeling → evaluation → deployment → monitoring
-- Post-deployment ML: **data drift, concept drift, performance decay, retraining triggers**
-- **Causal inference & uplift modeling** for decision optimization
-- Time-series forecasting and anomaly detection for business-critical use cases
-
----
-
-## 🧰 Tech Stack
-
-**Programming & Data**
-- Python, SQL  
-
-**Machine Learning & Modeling**
-- Scikit-learn  
-- Feature engineering, model evaluation, validation strategies  
-
-**Advanced Analytics**
-- Causal inference  
-- Uplift modeling  
-- Time-series forecasting  
-- Anomaly detection  
-
-**MLOps & Production Concepts**
-- Model monitoring  
-- Data & concept drift detection  
-- Performance tracking  
-- Retraining pipelines  
-
-**Tools**
-- Pandas, NumPy, Statsmodels  
-- Jupyter, Git, GitHub, REST APIs  
-
----
-
-## 📫 Contact
-- Email: mbgirish2004@gmail.com  
-- LinkedIn: https://linkedin.com/in/m-b-girish-b94368312  
-
----
-
-*Pinned repositories below highlight selected production and analytics-focused projects.*
+👋 Hi, I’m M B Girish
+🎓 Data Scientist & Machine Learning Engineer
+🚀 Building production-grade ML systems with focus on model monitoring, causal inference, and decision intelligence
+📍 Bangalore, India
+🧠 What I Do
+Design end-to-end ML systems (from data → model → deployment → monitoring)
+Build reliable & explainable models for real-world decision-making
+Work on causal inference, drift detection, and behavioral analytics
+Turn data into product intelligence, not just predictions
+🛠️ Tech Stack
+Languages
+Python, TypeScript, SQL
+Machine Learning & Data
+Scikit-learn, PyTorch, TensorFlow
+Pandas, NumPy, SciPy
+XGBoost, LightGBM
+Time Series (ARIMA, SARIMA, Prophet)
+ML Systems & Analytics
+Model Monitoring & Drift Detection
+Causal Inference & Uplift Modeling
+A/B Testing & Experimentation
+Feature Engineering & Pipelines
+Databases & Tools
+PostgreSQL, MySQL
+Jupyter, Git, GitHub
+Docker (basic)
+⭐ Featured Projects
+🔹 ML Model Monitoring & Drift Detection
+Production-grade system to detect data drift, concept drift, and performance decay with automated retraining triggers.
+Tech: Python, Statistical Drift Tests, Monitoring Pipelines
+👉 Focus: ML reliability post-deployment
+🔹 UNI-CONNECT
+A college-centric social platform enabling students to connect through events, study groups, and networking.
+Tech: TypeScript, Full-Stack Architecture
+👉 Focus: Product thinking + system design
+🔹 Causal Impact & Uplift Modeling
+Quantifies true treatment impact using causal inference techniques instead of correlation-based ML.
+Tech: Causal Models, Experimentation
+👉 Focus: Decision intelligence
+🔹 Retail Sales Time Series Forecasting
+End-to-end forecasting system modeling trend, seasonality, and demand patterns.
+Tech: ARIMA, SARIMA, Prophet
+👉 Focus: Business forecasting
+📊 Other Work Includes
+Behavioral Bias Detection
+Healthcare Analytics (MedInsight)
+Recommender Systems
+Fraud & Anomaly Detection
+Product Metrics & SQL Analytics
+Emotion-Aware AI Tutor
+🧪 Current Focus
+🔍 Research-oriented ML projects
+🧠 Causal & interpretable ML systems
+🏗️ Scalable ML architecture design
+🖼️ Generative Models (Text-to-Image, Diffusion vs GANs)
+📫 Let’s Connect
+📧 Email: mbgirish2004@gmail.com
+💼 LinkedIn: linkedin.com/in/m-b-girish-b94368312
+🐦 X (Twitter): @_m_b_girish_1_7
+“Good models predict. Great systems decide.”
