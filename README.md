@@ -94,7 +94,7 @@ End-to-end forecasting system capturing trend, seasonality, and demand patterns.
 
 - 📧 Email: **mbgirish2004@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/m-b-girish-b94368312)
-- 🐦 [X (Twitter)](@_m_b_girish_1_7) 
+- 🐦 [X (Twitter)](https://x.com/_m_b_girish_1_7)
 
 ---
 
