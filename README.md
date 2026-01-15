@@ -52,12 +52,6 @@ Production-grade system to detect **data drift, concept drift**, and model perfo
 
 ---
 
-### 🔹 UNI-CONNECT
-A college-centric social platform enabling students to connect through events, study groups, and networking.  
-**Tech:** TypeScript, Full-Stack Architecture
-
----
-
 ### 🔹 Causal Impact & Uplift Modeling
 A causal inference system that estimates **true treatment effects** instead of correlation-based predictions.  
 **Tech:** Causal Models, Experimentation Frameworks
