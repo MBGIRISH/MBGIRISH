@@ -68,7 +68,6 @@ Docker (basic)
 
 ---
 
-## 📊 GitHub Analytics
 
 <p align="center">
   <img src="assets/github-analytics-overview.png" width="100%" alt="GitHub Analytics Overview"/>
@@ -78,10 +77,7 @@ Docker (basic)
   <img src="assets/github-analytics-languages.png" width="100%" alt="Top Languages by Commit"/>
 </p>
 
-<p align="center">
-  <i>“Controlling complexity is the essence of computer programming.”</i><br/>
-  — <b>Chris Pine</b>
-</p>
+
 
 ---
 
