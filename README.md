@@ -20,9 +20,6 @@
   <a href="resume/M_B_Girish_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-0A66C2?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
   </a>
-  <a href="resume/M_B_Girish_Resume.pdf" download>
-    <img src="https://img.shields.io/badge/Download%20Resume-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
   <a href="https://x.com/_m_b_girish_1_7" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
@@ -107,12 +104,12 @@ End-to-end forecasting system capturing trend, seasonality, and demand patterns.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbgirish&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbgirish&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mbgirish&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbgirish&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbgirish&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=mbgirish&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
