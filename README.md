@@ -67,7 +67,7 @@ Git, GitHub, Jupyter
 Docker (basic)  
 
 ---
-
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="assets/github-analytics-overview.png" width="100%" alt="GitHub Analytics Overview"/>
