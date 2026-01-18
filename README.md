@@ -23,7 +23,7 @@
   <a href="https://x.com/_m_b_girish_1_7" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/_m_b_girish_1_7__?igsh=ZGZsdnZzaTZqM3Rx" target="_blank">
+  <a href="https://www.instagram.com/_m_b_girish_1_7__" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:mbgirish2004@gmail.com">
@@ -35,85 +35,56 @@
 
 ## 🧠 About Me
 
-I design **end-to-end machine learning systems** that go beyond model accuracy—prioritizing **reliability, interpretability, and real-world decision impact**.
+I design **end-to-end machine learning systems** that go beyond model accuracy — focusing on **reliability, interpretability, and real-world decision impact**.
 
-My work focuses on:
-- ML system design, monitoring, and drift detection  
-- Causal inference, uplift modeling, and experimentation  
-- Product analytics and data-driven decision intelligence  
-- Applied AI across healthcare, finance, and consumer platforms  
+My work includes:
+- ML system design, monitoring & drift detection  
+- Causal inference, uplift modeling & experimentation  
+- Product analytics & decision intelligence  
+- Applied AI across healthcare, finance & consumer platforms  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming
-- Python, SQL, TypeScript  
+**Programming:**  
+Python, SQL, TypeScript  
 
-### Machine Learning & Data Science
-- Scikit-learn, PyTorch, TensorFlow  
-- Pandas, NumPy, SciPy  
-- XGBoost, LightGBM  
-- Time Series: ARIMA, SARIMA, Prophet  
+**Machine Learning & Data Science:**  
+Scikit-learn, PyTorch, TensorFlow  
+Pandas, NumPy, SciPy  
+XGBoost, LightGBM  
+Time Series: ARIMA, SARIMA, Prophet  
 
-### ML Systems & Analytics
-- Model Monitoring & Drift Detection  
-- Causal Inference & Uplift Modeling  
-- A/B Testing & Experimentation  
-- Feature Engineering & Pipelines  
+**ML Systems & Analytics:**  
+Model Monitoring & Drift Detection  
+Causal Inference & Uplift Modeling  
+A/B Testing & Experimentation  
 
-### Databases & Tools
-- PostgreSQL, MySQL  
-- Git, GitHub, Jupyter  
-- Docker (basic)  
-
----
-
-## ⭐ Featured Projects
-
-### 🔹 ML Model Monitoring & Drift Detection
-Production-grade system to detect data drift, concept drift, and performance degradation with automated retraining triggers.  
-**Tech:** Python, Statistical Drift Tests, Monitoring Pipelines  
-
-### 🔹 Causal Impact & Uplift Modeling
-Causal inference system designed to estimate true treatment effects instead of correlation-based predictions.  
-**Tech:** Causal Models, Experimentation Frameworks  
-
-### 🔹 Retail Sales Time Series Forecasting
-End-to-end forecasting system capturing trend, seasonality, and demand patterns.  
-**Tech:** ARIMA, SARIMA, Prophet  
+**Databases & Tools:**  
+PostgreSQL, MySQL  
+Git, GitHub, Jupyter  
+Docker (basic)  
 
 ---
 
-## 📊 Additional Domains
-- Fraud & Anomaly Detection  
-- Healthcare Analytics  
-- Recommendation Systems  
-- Product Metrics & SQL Analytics  
-
----
-
-## 🧪 Current Focus
-- Research-oriented ML systems  
-- Causal & interpretable machine learning  
-- Scalable ML architectures  
-- Generative models (GANs vs Diffusion Models)  
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbgirish&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbgirish&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="assets/github-analytics-overview.png" width="100%" alt="GitHub Analytics Overview"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mbgirish&theme=tokyonight&hide_border=true"/>
+  <img src="assets/github-analytics-languages.png" width="100%" alt="Top Languages by Commit"/>
+</p>
+
+<p align="center">
+  <i>“Controlling complexity is the essence of computer programming.”</i><br/>
+  — <b>Chris Pine</b>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Good models predict. Great systems decide.”</i>
+  <i>Good models predict. Great systems decide.</i>
 </p>
