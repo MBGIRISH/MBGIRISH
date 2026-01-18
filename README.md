@@ -1,96 +1,122 @@
-# 👋 Hi, I’m M B Girish
+<p align="center">
+  <img src="assets/cyberpunk-banner.png" alt="ML Systems Engineer Banner" width="100%" />
+</p>
 
-🎓 **Data Scientist & Machine Learning Engineer**  
-🚀 Building production-grade ML systems with a focus on **model monitoring, causal inference, and decision intelligence**  
-📍 Bangalore, India
+<h1 align="center">👋 Hi, I’m M B Girish</h1>
+
+<p align="center">
+  <b>Data Scientist & Machine Learning Engineer</b><br/>
+  Building production-grade ML systems with a focus on monitoring, causal inference, and decision intelligence<br/>
+  📍 Bangalore, India
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mbgirish" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MBGIRISH" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="resume/M_B_Girish_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-0A66C2?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+  </a>
+  <a href="resume/M_B_Girish_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+  <a href="https://x.com/_m_b_girish_1_7" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_m_b_girish_1_7__?igsh=ZGZsdnZzaTZqM3Rx" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:mbgirish2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I specialize in designing **end-to-end machine learning systems** that go beyond model accuracy — focusing on **reliability, interpretability, and real-world decision impact**.
+I design **end-to-end machine learning systems** that go beyond model accuracy—prioritizing **reliability, interpretability, and real-world decision impact**.
 
-My work spans:
-- ML system design & monitoring
-- Causal inference and uplift modeling
-- Product analytics and experimentation
-- Applied AI across healthcare, finance, and consumer platforms
+My work focuses on:
+- ML system design, monitoring, and drift detection  
+- Causal inference, uplift modeling, and experimentation  
+- Product analytics and data-driven decision intelligence  
+- Applied AI across healthcare, finance, and consumer platforms  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-- Python
-- TypeScript
-- SQL
+### Programming
+- Python, SQL, TypeScript  
 
 ### Machine Learning & Data Science
-- Scikit-learn, PyTorch, TensorFlow
-- Pandas, NumPy, SciPy
-- XGBoost, LightGBM
-- Time Series: ARIMA, SARIMA, Prophet
+- Scikit-learn, PyTorch, TensorFlow  
+- Pandas, NumPy, SciPy  
+- XGBoost, LightGBM  
+- Time Series: ARIMA, SARIMA, Prophet  
 
 ### ML Systems & Analytics
-- Model Monitoring & Drift Detection
-- Causal Inference & Uplift Modeling
-- A/B Testing & Experimentation
-- Feature Engineering & Pipelines
+- Model Monitoring & Drift Detection  
+- Causal Inference & Uplift Modeling  
+- A/B Testing & Experimentation  
+- Feature Engineering & Pipelines  
 
 ### Databases & Tools
-- PostgreSQL, MySQL
-- Git, GitHub, Jupyter
-- Docker (basic)
+- PostgreSQL, MySQL  
+- Git, GitHub, Jupyter  
+- Docker (basic)  
 
 ---
 
 ## ⭐ Featured Projects
 
 ### 🔹 ML Model Monitoring & Drift Detection
-Production-grade system to detect **data drift, concept drift**, and model performance decay with automated retraining triggers.  
-**Tech:** Python, Statistical Drift Tests, Monitoring Pipelines
-
----
+Production-grade system to detect data drift, concept drift, and performance degradation with automated retraining triggers.  
+**Tech:** Python, Statistical Drift Tests, Monitoring Pipelines  
 
 ### 🔹 Causal Impact & Uplift Modeling
-A causal inference system that estimates **true treatment effects** instead of correlation-based predictions.  
-**Tech:** Causal Models, Experimentation Frameworks
-
----
+Causal inference system designed to estimate true treatment effects instead of correlation-based predictions.  
+**Tech:** Causal Models, Experimentation Frameworks  
 
 ### 🔹 Retail Sales Time Series Forecasting
 End-to-end forecasting system capturing trend, seasonality, and demand patterns.  
-**Tech:** ARIMA, SARIMA, Prophet
+**Tech:** ARIMA, SARIMA, Prophet  
 
 ---
 
-## 📊 Additional Projects & Domains
-
-- Behavioral Bias Detection
-- Healthcare Analytics (MedInsight)
-- Recommendation Systems
-- Fraud & Anomaly Detection
-- Product Metrics & SQL Analytics
-- Emotion-Aware AI Tutoring Systems
+## 📊 Additional Domains
+- Fraud & Anomaly Detection  
+- Healthcare Analytics  
+- Recommendation Systems  
+- Product Metrics & SQL Analytics  
 
 ---
 
 ## 🧪 Current Focus
-
-- Research-oriented ML projects
-- Causal & interpretable machine learning
-- Scalable ML system architectures
-- Generative models (Text-to-Image, GANs vs Diffusion Models)
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: **mbgirish2004@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/m-b-girish-b94368312)
-- 🐦 [X (Twitter)](https://x.com/_m_b_girish_1_7)
+- Research-oriented ML systems  
+- Causal & interpretable machine learning  
+- Scalable ML architectures  
+- Generative models (GANs vs Diffusion Models)  
 
 ---
 
-> *“Good models predict. Great systems decide.”*
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mbgirish&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbgirish&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbgirish&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <i>“Good models predict. Great systems decide.”</i>
+</p>
