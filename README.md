@@ -46,26 +46,28 @@ My work includes:
 
 ## 🛠️ Tech Stack
 
-**Programming:**  
-Python, SQL, TypeScript  
+### 🔹 Programming
+`Python` `SQL` `TypeScript`
 
-**Machine Learning & Data Science:**  
-Scikit-learn, PyTorch, TensorFlow  
-Pandas, NumPy, SciPy  
-XGBoost, LightGBM  
-Time Series: ARIMA, SARIMA, Prophet  
+### 🔹 Machine Learning
+`Scikit-learn` `PyTorch` `TensorFlow`  
+`XGBoost` `LightGBM`
 
-**ML Systems & Analytics:**  
-Model Monitoring & Drift Detection  
-Causal Inference & Uplift Modeling  
-A/B Testing & Experimentation  
+### 🔹 Data Science
+`Pandas` `NumPy` `SciPy`
 
-**Databases & Tools:**  
-PostgreSQL, MySQL  
-Git, GitHub, Jupyter  
-Docker (basic)  
+### 🔹 Time Series
+`ARIMA` `SARIMA` `Prophet`
 
----
+### 🔹 ML Systems & Decision Intelligence
+`Model Monitoring` `Drift Detection`  
+`Causal Inference` `Uplift Modeling`  
+`A/B Testing` `Experimentation`
+
+### 🔹 Databases & Tools
+`PostgreSQL` `MySQL`  
+`Git` `GitHub` `Jupyter` `Docker`
+
 ## 📊 GitHub Analytics
 
 <p align="center">
