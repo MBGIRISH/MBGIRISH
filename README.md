@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/cyberpunk-banner.jpeg" alt="ML Systems Engineer Banner" width="100%" />
-</p>
-
 <h1 align="center">👋 Hi, I’m M B Girish</h1>
 
 <p align="center">
@@ -32,6 +28,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="assets/cyberpunk-banner.jpeg" alt="ML Systems Engineer Banner" width="100%" />
+</p>
 
 ## 🧠 About Me
 
