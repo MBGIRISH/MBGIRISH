@@ -13,9 +13,9 @@
   <a href="https://github.com/MBGIRISH" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="resume/M_B_Girish_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Resume-0A66C2?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
-  </a>
+ <a href="https://drive.google.com/file/d/1XiEF5XXJ97rsuyDETcrvqlklYJ3RBll6/view?usp=drivesdk" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Resume-0A66C2?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+ </a>
   <a href="https://x.com/_m_b_girish_1_7" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
