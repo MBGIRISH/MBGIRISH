@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m M B Girish</h1>
+<h1 align="center">👋 Hi, I’m M B GIRISH</h1>
 
 <p align="center">
   <b>Machine Learning Engineer | AI Researcher | Building Reliable AI Systems</b><br/>
