@@ -47,47 +47,67 @@ I've authored IEEE research publications, contributed to patent applications, an
 
 ## 🛠️ Tech Stack
 
-### 🔹 Programming
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+---
 
-### 🔹 Machine Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 🤖 AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
+---
 
-### 🔹 Modeling & Time Series
+### 🧠 Deep Learning & Computer Vision
+![CNN](https://img.shields.io/badge/CNN-FF6F61?style=for-the-badge)
+![Vision%20Transformer](https://img.shields.io/badge/Vision%20Transformer-6A1B9A?style=for-the-badge)
+![U--Net](https://img.shields.io/badge/U--Net-00897B?style=for-the-badge)
+![Transfer%20Learning](https://img.shields.io/badge/Transfer%20Learning-3949AB?style=for-the-badge)
+
+---
+
+### 📈 Data Science & Forecasting
 ![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge)
 ![LightGBM](https://img.shields.io/badge/LightGBM-00AEEF?style=for-the-badge)
 ![ARIMA](https://img.shields.io/badge/ARIMA-6A1B9A?style=for-the-badge)
 ![SARIMA](https://img.shields.io/badge/SARIMA-512DA8?style=for-the-badge)
 ![Prophet](https://img.shields.io/badge/Prophet-4285F4?style=for-the-badge)
 
+---
 
-### 🔹 ML Systems & Decision Intelligence
-![Model Monitoring](https://img.shields.io/badge/Model%20Monitoring-2E7D32?style=for-the-badge)
-![Drift Detection](https://img.shields.io/badge/Drift%20Detection-C62828?style=for-the-badge)
-![Causal Inference](https://img.shields.io/badge/Causal%20Inference-283593?style=for-the-badge)
-![Uplift Modeling](https://img.shields.io/badge/Uplift%20Modeling-1565C0?style=for-the-badge)
-![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-AD1457?style=for-the-badge)
+### 🌐 Web Development & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+---
 
-### 🔹 Databases & Tools
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-## 📊 GitHub Analytics
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <p align="center">
   <img src="assets/github-analytics-overview.png" width="100%" alt="GitHub Analytics Overview"/>
