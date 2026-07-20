@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I’m M B Girish</h1>
 
 <p align="center">
-  <b>Data Scientist & Machine Learning Engineer</b><br/>
-  Building production-grade ML systems with a focus on monitoring, causal inference, and decision intelligence<br/>
+  <b>Machine Learning Engineer | AI Researcher | Building Reliable AI Systems</b><br/>
+  Building AI systems that solve real-world problems in healthcare, forecasting, recommendation systems, and intelligent decision making<br/>
   📍 Bangalore, India
 </p>
 
@@ -34,13 +34,14 @@
 
 ## 🧠 About Me
 
-I design **end-to-end machine learning systems** that go beyond model accuracy — focusing on **reliability, interpretability, and real-world decision impact**.
+## 🧠 About Me
 
-My work includes:
-- ML system design, monitoring & drift detection  
-- Causal inference, uplift modeling & experimentation  
-- Product analytics & decision intelligence  
-- Applied AI across healthcare, finance & consumer platforms  
+I'm a Computer Science undergraduate at Dayananda Sagar College of Engineering passionate about building AI systems that bridge research and real-world impact.
+
+My interests include **Computer Vision, Medical AI, Deep Learning, Explainable AI, MLOps, Time Series Forecasting, Causal Inference,** and **Decision Intelligence**.
+
+I've authored IEEE research publications, contributed to patent applications, and developed AI solutions across healthcare, agriculture, IoT, and analytics. I'm driven by building reliable, interpretable, and scalable AI systems that solve meaningful real-world problems.
+
 
 ---
 
