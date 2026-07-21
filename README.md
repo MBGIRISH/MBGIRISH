@@ -32,7 +32,6 @@
   <img src="assets/cyberpunk-banner.jpeg" alt="ML Systems Engineer Banner" width="100%" />
 </p>
 
-## 🧠 About Me
 
 ## 🧠 About Me
 
@@ -45,7 +44,6 @@ I've authored IEEE research publications, contributed to patent applications, an
 
 ---
 
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
